@@ -1,0 +1,3 @@
+my current directory is /home/luhanc/vf38/introHPC/slurm
+output of ls -l : total 5817 -rw-r--r-- 1 luhanc monashuniversity 522 Jul 21 03:15 commands.sh -rwxr--r-- 1 luhanc monashuniversity 344 Jul 21 03:37 simple_slurm.sh -rw-r--r-- 1 luhanc monashuniversity 326 Jul 21 03:15 slurm-15099159.out -rw-r--r-- 1 luhanc monashuniversity 57 Jul 22 16:42 slurm-15102313.out -rw-r--r-- 1 luhanc monashuniversity 5940058 Jul 21 03:15 SLURM-cheatsheet.pdf
+current date is Wed Jul 22 16:42:30 AEST 2020

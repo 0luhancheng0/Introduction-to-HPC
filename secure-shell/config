@@ -1,0 +1,5 @@
+# add this file to ~/.ssh on your device
+Host m3
+    Hostname m3.massive.org.au
+    User <insert username here, e.g. luhanc>
+    IdentityFile <insert path to ssh private key here, e.g. ~/.ssh/id_rsa>
