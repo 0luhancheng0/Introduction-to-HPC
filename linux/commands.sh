@@ -1,22 +1,38 @@
-#!/bin/bash
+
+# print current directory
+pwd
+
+
+# list directories
 ls 
 ls -a
 ls -l
 ls -la
-#relative path vs absolute path realpath
-cd 
-cat 
-# --help, man
+
+
+# -h/--help, man
+
+# change directories to navigate
+cd ~/vf38
+cd .
+cd ..
+
+# edit files
 touch 
 mkdir 
 cp 
 rm 
 mv 
-# tab, up arrow, down arrow, control-c
-nano
 
+# IO
+nano
+cat 
 echo 
+
+
+# others
 date
 hostname
 chmod 
 
+# tab, up arrow, down arrow, control-c
