@@ -17,8 +17,8 @@ module purge
 
 # create python venv
 module load python/3.6.2-static
-python -m venv myenv
-source activate myenv/bin/activate
+python3 -m venv .venv
+source activate .venv/bin/activate
 pip install numpy
 python -c 'import numpy as np;'
 deactivate
